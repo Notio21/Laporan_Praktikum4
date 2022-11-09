@@ -13,9 +13,9 @@ Tugas   :  Pemrograman Orientasi Objek
 
 <img width="422" alt="screeshoot1" src="https://user-images.githubusercontent.com/95495311/200794594-ecdf5b87-e007-4256-b84f-2d8513efeb9e.png">
 
-- LangkahpPertama, kita buat superclass bernama BangunDatar.
+- Langkah Pertama, kita buat superclass bernama BangunDatar.
 
-- Dengan method luas dan keliling yang bersifat public.
+- Dengan method luas dan keliling dan bersifat public.
 
 - Berikut tampilan program java code 
 
@@ -23,7 +23,7 @@ Tugas   :  Pemrograman Orientasi Objek
 
 - Selanjutnya buat subclass bernama Lingkaran, Persegi dan Segitiga.
 
-- Subclass Lingkaran memiliki atribut r bertype data integer dan bersifat private. 
+- Subclass Lingkaran memiliki atribut "r" bertype data integer dan bersifat private. 
 
 - Lalu buat method menghitung luas dan keliling untuk class lingkaran. 
 
@@ -31,7 +31,7 @@ Tugas   :  Pemrograman Orientasi Objek
 
 <img width="511" alt="screeshoot3" src="https://user-images.githubusercontent.com/95495311/200794616-08397d94-8dd1-4044-8281-f4b57110732b.png">
 
-- Langkah berikut lengkapi subclas Persegi
+- Langkah berikut lengkapi subclass Persegi
 
 - Subclass Persegi memiliki atribut sisi bertype data integer yang bersifat private. 
 
@@ -43,7 +43,7 @@ Tugas   :  Pemrograman Orientasi Objek
 
 - Berikutnya subclass Segitiga
 
-- Subclass segituga memiliki atribut alas dan tinggi bertypedata integer dan bersifat private.
+- Subclass segitiga memiliki atribut alas dan tinggi bertype data integer dan bersifat private.
 
 - Dengan method mengitung luas segitiga. 
 
@@ -61,5 +61,13 @@ Tugas   :  Pemrograman Orientasi Objek
 
 - Seperti ini tampilan output hasil eksekusi program java code di atas
 
+<img width="361" alt="screeshoot7" src="https://user-images.githubusercontent.com/95495311/200799022-52377ffc-bd12-4682-8da6-2a819aa96e64.png">
 
 
+PROGRAM STUDI TEKNIK INFORMATIKA
+
+UNIVERSITAS PELITA BANGSA
+
+2022
+
+================= T E R I M A K A S I H ==============
